@@ -1,0 +1,75 @@
+{
+    "films": [
+      {
+        "id": "1",
+        "title": "The Giant Gila Monster",
+        "runtime": "108",
+        "capacity": 30,
+        "showtime": "04:00PM",
+        "tickets_sold": 27,
+        "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Manos: The Hands Of Fate",
+        "runtime": "118",
+        "capacity": 50,
+        "showtime": "06:45PM",
+        "tickets_sold": 44,
+        "description": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/47781/p47781_v_v8_ac.jpg"
+      },
+      {
+        "id": "3",
+        "title": "Plan 9 from Outer Space",
+        "runtime": "90",
+        "capacity": 40,
+        "showtime": "08:30PM",
+        "tickets_sold": 35,
+        "description": "Aliens resurrect the dead to stop humanity from creating a doomsday weapon.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/3643/p3643_v_v8_ab.jpg"
+      },
+      {
+        "id": "4",
+        "title": "Night of the Living Dead",
+        "runtime": "96",
+        "capacity": 60,
+        "showtime": "10:15PM",
+        "tickets_sold": 58,
+        "description": "A group of people in a rural farmhouse try to survive a zombie apocalypse.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/4273/p4273_v_v8_aa.jpg"
+      },
+      {
+        "id": "5",
+        "title": "The Blob",
+        "runtime": "86",
+        "capacity": 35,
+        "showtime": "07:00PM",
+        "tickets_sold": 20,
+        "description": "An alien lifeform consumes everything in its path as it grows and terrorizes a small town.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/5447/p5447_v_v8_aa.jpg"
+      },
+      {
+        "id": "6",
+        "title": "Attack of the Giant Leeches",
+        "runtime": "62",
+        "capacity": 25,
+        "showtime": "05:30PM",
+        "tickets_sold": 18,
+        "description": "A group of swamp dwellers must survive attacks from giant blood-sucking leeches.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/5942/p5942_v_v8_aa.jpg"
+      },
+      {
+        "id": "7",
+        "title": "House on Haunted Hill",
+        "runtime": "75",
+        "capacity": 40,
+        "showtime": "09:45PM",
+        "tickets_sold": 38,
+        "description": "A millionaire offers $10,000 to five people who agree to be locked in a haunted house overnight.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/5189/p5189_v_v8_ab.jpg"
+      }
+    ]
+  }
+  
